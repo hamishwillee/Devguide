@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Getting Started](setup/getting_started.md)
+  * [Fred](setup/fred.md)
   * [Initial Setup](setup/config_initial.md)
   * [Toolchain Installation](setup/dev_env.md)
     * [Mac OS](setup/dev_env_mac.md)
